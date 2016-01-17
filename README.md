@@ -8,7 +8,7 @@ Emulator for 4.3.4 version.
 Build Status
 ========
 
-Master (Blizzlike): [alt tag](http://i.imgur.com/5VgVP3D.png)
+Master (Blizzlike): ![alt tag](http://i.imgur.com/5VgVP3D.png)
 
 More information and other items at: ZoneWoW.com
 
