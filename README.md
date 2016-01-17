@@ -8,7 +8,7 @@ Emulator for 4.3.4 version.
 Build Status
 ========
 
-Master (Blizzlike): [![3.3.5 Build Status](https://travis-ci.org/Desch/CataclysmV9.svg?branch=master)](https://travis-ci.org/Desch/CataclysmV9)
+Master (Blizzlike): [alt tag](http://i.imgur.com/5VgVP3D.png)
 
 More information and other items at: ZoneWoW.com
 
